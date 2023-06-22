@@ -6,4 +6,3 @@ services:
     command: ttyd bash
     ports:
       - "7681:7681"
-    image: archlinux
